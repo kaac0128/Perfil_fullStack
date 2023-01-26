@@ -1,0 +1,2 @@
+Se creo un app con angular y . net core api implementando la conexion con entity framework
+y se generaron archivos a partir de esto
